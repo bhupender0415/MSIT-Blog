@@ -1,19 +1,11 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/blogy)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/blogy?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/blogy?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/NNQuhOeM0mI?style=social)](https://youtu.be/NNQuhOeM0mI)
-
   <br />
   <br />
 
   <h2 align="center">Blogy - Blog Website</h2>
 
-  Blogy is a fully responsive blog website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/blogy/"><strong>➥ Live Demo</strong></a>
+  MSIT blog is a fully responsive blog website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 </div>
 
@@ -21,7 +13,7 @@
 
 ### Demo Screeshots
 
-![Blogy Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+  to be added
 
 ### Prerequisites
 
@@ -33,21 +25,14 @@ Before you begin, ensure you have met the following requirements:
 
 To run **Blogy** locally, run this command on your git bash:
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/blogy.git
-```
 
 Windows:
 
-```bash
-git clone https://github.com/codewithsadee/blogy.git
-```
+to be added
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at xxxx
 
 ### License
 
