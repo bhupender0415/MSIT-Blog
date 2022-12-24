@@ -23,5 +23,5 @@ Responsive for all devices, build using HTML, CSS, and JavaScript.
   
  ## Live Project Link 🛠
  - https://bhupender0415.github.io/MSIT-Blog/#
- - <a href="https://bhupender0415.github.io/MSIT-Blog/#">Click here for live waebsite</a>
+ - <a href="https://bhupender0415.github.io/MSIT-Blog/#">Click here for live website</a>
  
